@@ -1,10 +1,9 @@
 
 ------- Instruction on running the projects------------
 
-Business analytics projects have been developed using python analysis tool.
+Business analytics projects have been developed using Python analysis tools and libraries.
 
-	-- Please open the module projects using Jupyter Notebook or 
-	   by us of VS Code.
+	-- Please run the module projects using Jupyter Notebook/VS Code.
 
 
 ------ Thank you!
